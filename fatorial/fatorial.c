@@ -22,4 +22,4 @@ int main(void) {
 	printf("20!ÀÇ °ª:%lf\n", result_iter);
 	system("pause");
 }
-//
+///
